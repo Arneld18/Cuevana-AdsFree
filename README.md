@@ -2,6 +2,9 @@
 
 Cuevana AdsFree is a lightweight, high-performance desktop wrapper for Cuevana, designed to provide a premium, uninterrupted streaming experience. Built with WPF and WebView2, it offers advanced features like built-in ad-blocking, UI customization, and an integrated search engine.
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+
 ![App Screenshot](https://github.com/Arneld18/Cuevana-AdsFree/blob/80529f53d909f1ae5f3b89fdedbe0099b840e8c9/Screenshot%20Cuevana-AdsFree-1.png) <!-- Link to be updated by user -->
 
 ## ✨ Features
