@@ -30,9 +30,6 @@ The application uses **Microsoft Edge WebView2** to render the content, providin
 -   **Runtime**: [.NET 10.0 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) or higher.
 -   **WebView2**: The application will automatically use the Evergreen WebView2 Runtime installed on your system.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## 📄 License
 
