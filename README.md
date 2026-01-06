@@ -15,7 +15,7 @@ Cuevana AdsFree is a lightweight, high-performance desktop wrapper for Cuevana, 
 
 ## 📥 Installation
 
-1.  Download the latest installer from the [Releases](https://github.com/username/repo/releases) page.
+1.  Download the latest installer from the [Releases](https://github.com/Arneld18/Cuevana-AdsFree/releases) page.
 2.  Run `CuevanaAdsFree_Setup.exe`.
 3.  The application will be installed in your LocalAppData folder.
 4.  Launch the app from the Desktop or Start Menu shortcut.
@@ -29,6 +29,12 @@ The application uses **Microsoft Edge WebView2** to render the content, providin
 -   **OS**: Windows 10 or 11 (64-bit).
 -   **Runtime**: [.NET 10.0 Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) or higher.
 -   **WebView2**: The application will automatically use the Evergreen WebView2 Runtime installed on your system.
+
+## ☕ Support the Project
+
+If you find this tool useful, consider supporting its development:
+
+[**Buy me a coffee ☕**](https://donate.stripe.com/eVq7sL5f75XXe5Fc8KfnO01)
 
 
 ## 📄 License
